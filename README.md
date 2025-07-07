@@ -9,33 +9,28 @@ Always open to collaboration and learning — feel free to explore my repositori
 
 ---
 
-🛠️ **My Tech Stack:**
+### 🛠 Tech Stack
 
-- **Languages:** Python, C++, C, JavaScript, PHP, HTML, CSS
-- **Web Development:** Django, Flask, Streamlit, RESTful APIs
-- **Machine Learning & Data Science:** TensorFlow, Scikit-learn, Pandas, NumPy, Seaborn, NLP, Feature Engineering, Text Preprocessing
-- **Cloud & Databases:** SQL, MySQL, SQLite, AWS RDS, PostgreSQL
-- **Tools & Technologies:** Git, Docker, Arduino IDE, Excel Automation, Web Scraping, API Integration
+**Languages:**  
+Python | C++ | C | JavaScript | PHP | HTML | CSS | SQL  
 
----
+**Machine Learning & Data Science:**  
+Scikit-learn | TensorFlow | Pandas | NumPy | Seaborn | NLP | Feature Engineering | Text Preprocessing | Data Normalization  
 
-🚀 **Featured Projects:**
+**Web Development & APIs:**  
+Django | Flask | Streamlit | RESTful APIs  
 
-- [🔗 AI-Powered Social Media Automation](https://github.com/arushi1106/Social_Media_Automation)  
-  Built a scalable tool using Python, Flask, OpenAI GPT, and AWS RDS to automate LinkedIn and Instagram content generation, improving engagement by 35% and reducing manual effort by 50%.
+**Databases & Cloud:**  
+AWS RDS | PostgreSQL | MySQL Workbench | SQLite  
 
-- [🔗 Personalised Health Treatment](https://github.com/arushi1106/Precision_Medicine)  
-  Developed an AI-powered healthcare chatbot with scikit-learn, Flask, and SQL for real-time symptom analysis and medical advice, achieving 92% diagnostic accuracy.
+**Tools & Technologies:**  
+Docker | Git | Arduino IDE | Web Scraping | API Integration | Excel Automation | CI/CD with GitHub Actions  
 
-- [🔗 Automated Text Structuring Pipeline (NLP & Data Preprocessing)](https://github.com/arushi1106/NLP_Unstructured_to_Structured)  
-  Engineered an NLP pipeline for converting unstructured text to structured datasets, improving data usability by 35% and streamlining ML workflows.
 
----
 
 📊 **GitHub Stats:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arushi1106&show_icons=true&theme=radical" alt="arushi1106 GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushi1106&layout=compact&theme=radical" alt="arushi1106 Top Languages" />
 </p>
 
