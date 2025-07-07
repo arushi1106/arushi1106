@@ -5,6 +5,7 @@
 
 🔬 **About Me:**
 I'm Arushi Jain, an Artificial Intelligence professional passionate about building intelligent systems that solve real-world problems. My work focuses on developing AI-powered solutions for data processing, automation, and NLP-driven applications. I enjoy working across the full stack — from building machine learning pipelines to deploying scalable, production-ready systems using Python, Flask, and cloud technologies.
+
 Always open to collaboration and learning — feel free to explore my repositories or connect!
 
 ---
