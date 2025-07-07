@@ -9,6 +9,12 @@ Always open to collaboration and learning — feel free to explore my repositori
 
 ---
 
+## 💼 Resume:
+
+[View My Resume](https://github.com/arushi1106/Your_Resume_Repo/blob/main/Arushi_Jain_Resume.pdf)
+
+---
+
 ## 💻 Tech Stack:
 
 <p align="left">
