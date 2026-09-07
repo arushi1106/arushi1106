@@ -53,13 +53,6 @@ Always open to collaboration and learning — feel free to explore my repositori
   <img src="https://img.shields.io/badge/Excel%20Automation-27AE60?style=for-the-badge" />
 </p>
 
-
-📊 **GitHub Stats:**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushi1106&layout=compact&theme=radical" alt="arushi1106 Top Languages" />
-</p>
-
 ---
 
 📫 **Connect with me:**
